@@ -1,5 +1,5 @@
 # Chat Application Website!
-For our CS110 Final Project, our group decided to implement a chat application (lab 6) with 3 extra features. The extra features we chose to implement were 2 Factor Authentication, a good design, and an edit message functionality.
+For our Project, our group decided to implement a chat application with 3 extra features. The extra features we chose to implement were 2 Factor Authentication, a good design, and an edit message functionality.
 
 ## Application Stack 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
